@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b372ab-ce57-4b6f-ae10-e6f8bcb7cef2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/data/ContactData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/data/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/BaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/ContactHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/HomePageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/UserHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/models/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/utils/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/utils/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonebook/tests/AddContactTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonebook/tests/CreateAccountTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonebook/tests/DeleteContactTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonebook/tests/HomePageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonebook/tests/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonebook/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/contactData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/negative.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/smoky.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b0b372ab-ce57-4b6f-ae10-e6f8bcb7cef2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
