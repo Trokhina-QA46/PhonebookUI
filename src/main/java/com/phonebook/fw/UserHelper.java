@@ -31,7 +31,7 @@ public class UserHelper extends BaseHelper {
     }
 
     public boolean isErrorMessagePresent() {
-         return isElementPresent(By.cssSelector(".login_login__3EHKB>div"));
+        return isElementPresent(By.cssSelector(".login_login__3EHKB>div"));
      }
 
     public boolean isLoginLinkPresent() {
