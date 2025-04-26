@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b372ab-ce57-4b6f-ae10-e6f8bcb7cef2" name="Changes" comment="com1" />
+    <list default="true" id="b0b372ab-ce57-4b6f-ae10-e6f8bcb7cef2" name="Changes" comment="com2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -53,40 +60,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.AddContactTests.addContactPositiveFromDataProviderTest.executor": "Run",
-    "TestNG.AddContactTests.addContactPositiveFromDataProviderWithCsvFileTest.executor": "Run",
-    "TestNG.AddContactTests.addContactPositiveTest.executor": "Run",
-    "TestNG.AddContactTests.executor": "Run",
-    "TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/negative.xml.executor": "Run",
-    "TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/smoky.xml.executor": "Run",
-    "TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/testng.xml.executor": "Run",
-    "TestNG.CreateAccountTests.executor": "Run",
-    "TestNG.CreateAccountTests.existedUserRegistrationNegativeTest.executor": "Run",
-    "TestNG.CreateAccountTests.newUserRegistrationPositiveTest.executor": "Run",
-    "TestNG.DeleteContactTests.deleteContactTest.executor": "Run",
-    "TestNG.HomePageTests.isHomeComponentPresentTest.executor": "Run",
-    "TestNG.LoginTests.executor": "Run",
-    "TestNG.LoginTests.loginNegativeWithoutEmailTests.executor": "Run",
-    "TestNG.LoginTests.loginPositiveTests.executor": "Run",
-    "TestNG.com.phonebook.tests.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/AutoProjects/PhonebookUI",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "settings.editor.splitter.proportion": "0.269188"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AddContactTests.addContactPositiveFromDataProviderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddContactTests.addContactPositiveFromDataProviderWithCsvFileTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddContactTests.addContactPositiveTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;TestNG.AddContactTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/negative.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/smoky.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreateAccountTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreateAccountTests.existedUserRegistrationNegativeTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreateAccountTests.newUserRegistrationPositiveTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DeleteContactTests.deleteContactTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTests.isHomeComponentPresentTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.loginNegativeWithoutEmailTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.loginPositiveTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.com.phonebook.tests.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/AutoProjects/PhonebookUI&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.269188&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.phonebook.tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AutoProjects" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.AddContactTests.addContactPositiveTest">
@@ -221,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745612207490</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="com2">
+      <option name="closed" value="true" />
+      <created>1745613684868</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745613684868</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +275,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="com" />
     <MESSAGE value="com1" />
-    <option name="LAST_COMMIT_MESSAGE" value="com1" />
+    <MESSAGE value="com2" />
+    <option name="LAST_COMMIT_MESSAGE" value="com2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PhonebookUI$AddContactTests_addContactPositiveTest.ic" NAME="AddContactTests.addContactPositiveTest Coverage Results" MODIFIED="1745687622700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.phonebook.tests.*</FILTER>
+    </SUITE>
   </component>
 </project>
