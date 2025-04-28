@@ -32,6 +32,7 @@ public class ApplicationManager {
             driver=new FirefoxDriver();
             logger.info("Test start in Firefox browser");
         }
+
         WebDriverListener listener = new MyListener();
         driver = new EventFiringDecorator<>(listener).decorate(driver);
 
