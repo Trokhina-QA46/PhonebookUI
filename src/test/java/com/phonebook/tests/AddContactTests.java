@@ -20,7 +20,6 @@ public class AddContactTests extends TestBase{
 
     @BeforeMethod
    // public void precondition(){
-
         public void ensurePrecondition(){
             if(!app.getUser().isLoginLinkPresent()){
                 app.getUser().clickOnSignOutButton();
@@ -42,12 +41,10 @@ public class AddContactTests extends TestBase{
             .setEmail(ContactData.Email)
             .setAddress(ContactData.Address)
             .setDescription(ContactData.Description));
-    //click on Save button
     app.getContact().clickOnSaveButton();
     //verify contact add
     Assert.assertTrue(app.getContact().isContactAdded(ContactData.Name));
     }
-
 
 @Test(dataProvider = "addNewContact",dataProviderClass = DataProviders.class)
     public void addContactPositiveFromDataProviderTest(String name,String lastName,String phone,String email,String address,String description){
@@ -79,9 +76,7 @@ public class AddContactTests extends TestBase{
     @AfterMethod
     public void postCondition(){
     app.getContact().deleteContact();
-
 }
-
 }
 
 
