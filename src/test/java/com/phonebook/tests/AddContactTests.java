@@ -18,6 +18,7 @@ import java.util.List;
 
 public class AddContactTests extends TestBase{
 
+
     @BeforeMethod
    // public void precondition(){
         public void ensurePrecondition(){

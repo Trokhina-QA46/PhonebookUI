@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -57,7 +64,7 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Trokhina-QA46/PhonebookUI_&quot;,
+    &quot;url&quot;: &quot;https://github.com/Trokhina-QA46/PhonebookUI.git&quot;,
     &quot;accountId&quot;: &quot;c8d83fc7-e6fe-4a72-8908-51edd597dc20&quot;
   }
 }</component>
@@ -72,47 +79,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.&lt;default&gt;.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AddContactTests.addContactPositiveFromDataProviderTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AddContactTests.addContactPositiveFromDataProviderWithCsvFileTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AddContactTests.addContactPositiveTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AddContactTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/negative.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/smoky.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CreateAccountTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CreateAccountTests.existedUserRegistrationNegativeTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CreateAccountTests.newUserRegistrationPositiveTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.DeleteContactTests.deleteContactTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomePageTests.isHomeComponentPresentTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.loginNegativeWithoutEmailTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.loginPositiveTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.com.phonebook.tests.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/AutoProjects/PhonebookUI&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.269188&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.<default>.executor": "Run",
+    "TestNG.AddContactTests.addContactPositiveFromDataProviderTest.executor": "Run",
+    "TestNG.AddContactTests.addContactPositiveFromDataProviderWithCsvFileTest.executor": "Run",
+    "TestNG.AddContactTests.addContactPositiveTest.executor": "Run",
+    "TestNG.AddContactTests.executor": "Run",
+    "TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/negative.xml.executor": "Run",
+    "TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/smoky.xml.executor": "Run",
+    "TestNG.C:/AutoProjects/PhonebookUI/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.CreateAccountTests.executor": "Run",
+    "TestNG.CreateAccountTests.existedUserRegistrationNegativeTest.executor": "Run",
+    "TestNG.CreateAccountTests.newUserRegistrationPositiveTest.executor": "Run",
+    "TestNG.DeleteContactTests.deleteContactTest.executor": "Run",
+    "TestNG.HomePageTests.isHomeComponentPresentTest.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.loginNegativeWithoutEmailTests.executor": "Run",
+    "TestNG.LoginTests.loginPositiveTests.executor": "Run",
+    "TestNG.com.phonebook.tests.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/AutoProjects/PhonebookUI",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.splitter.proportion": "0.269188"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "EditorConfig"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.phonebook.tests" />

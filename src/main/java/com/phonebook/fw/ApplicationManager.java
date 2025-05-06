@@ -47,6 +47,7 @@ public class ApplicationManager {
         home = new HomePageHelper(driver);
     }
 
+
     public void stop() {
         driver.quit();
     }
